@@ -1,14 +1,3 @@
-Responsive-Website/
-├── assets/
-├── screenshots/
-│   ├── home.png
-│   ├── features.png
-│   ├── cards.png
-│   ├── footer.png
-├── index.html
-├── style.css
-└── README.md
-
 # 🌐 Responsive Website (HTML & CSS)
 
 This repository contains a **responsive demo website** created using **pure HTML and CSS**.  
@@ -38,12 +27,12 @@ The project was built for **practice and learning purposes** to understand layou
 ## 📸 Project Screenshots
 
 ### 🏠 Home Section
-![Home Page](Demo/home.png)
+![Home Page](Demo/Screenshot(607).png)
 
 ---
 
 ### 🧩 Features Section
-![Features](screenshots/features.png)
+![Features](Demo/Screenshot(608).png)
 
 ---
 
