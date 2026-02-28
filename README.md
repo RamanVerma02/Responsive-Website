@@ -47,6 +47,8 @@ The project was built for **practice and learning purposes** to understand layou
 
 ### 📄 Footer Section
 ![Footer](Demo/Screenshot614.png)
+![Footer](Demo/Screenshot615.png)
+![Footer](Demo/Screenshot616.png)
 
 ---
 
