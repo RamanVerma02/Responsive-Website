@@ -3,6 +3,8 @@
 This repository contains a **responsive demo website** created using **pure HTML and CSS**.  
 The project was built for **practice and learning purposes** to understand layout design, responsiveness, and UI structuring.
 
+🔗 **Live Demo:**  
+👉https://ramanverma02.github.io/Responsive-Website/
 ---
 
 ## ✨ Features
