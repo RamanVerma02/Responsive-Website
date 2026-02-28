@@ -27,7 +27,7 @@ The project was built for **practice and learning purposes** to understand layou
 ## 📸 Project Screenshots
 
 ### 🏠 Home Section
-![Home Page](Demo/Screenshot(607).png)
+![Home Page](Demo/Screenshot607.png)
 
 ---
 
