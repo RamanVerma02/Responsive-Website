@@ -32,17 +32,21 @@ The project was built for **practice and learning purposes** to understand layou
 ---
 
 ### 🧩 Features Section
-![Features](Demo/Screenshot(608).png)
+![Features](Demo/Screenshot608.png)
+![Features](Demo/Screenshot609.png)
 
 ---
 
 ### 🗂️ Cards & Content Layout
-![Cards](screenshots/cards.png)
+![Cards](Demo/Screenshot610.png)
+![Cards](Demo/Screenshot611.png)
+![Cards](Demo/Screenshot612.png)
+![Cards](Demo/Screenshot613.png)
 
 ---
 
 ### 📄 Footer Section
-![Footer](screenshots/footer.png)
+![Footer](Demo/Screenshot614.png)
 
 ---
 
